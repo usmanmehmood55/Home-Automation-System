@@ -12,8 +12,8 @@ float power   = 0;
 #include <BlynkSimpleEsp32.h>
 
 char auth[] = "9e9b0c9e899e49c5a3c41f9166dbe060";
-char ssid[] = "artologics";
-char pass[] = "11458900";
+char ssid[] = "WiFi Name";
+char pass[] = "WiFi Password";
 
 WidgetBridge bridge1(V1);
 BlynkTimer timer;
